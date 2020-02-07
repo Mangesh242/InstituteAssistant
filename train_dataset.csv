@@ -1,0 +1,150 @@
+good book,pos
+better book,pos
+not good book,neg
+bad book,neg
+not bad,pos
+love book,pos
+not love book,neg
+amazing book,pos
+not amazing book,neg
+worst book,neg
+best book,pos
+not,neg
+very good book,pos
+better book,pos
+not good book,neg
+bad book,neg
+not bad,pos
+love book,pos
+not love book,neg
+amazing book,pos
+not amazing book,neg
+worst book,neg
+best book,pos
+not,neg
+not explain well,neg
+explain well,pos
+go for it,pos
+not go for it,neg
+nice book,pos
+worst book ever seen,neg
+get another one,neg
+comment,pos
+good book reading since 2 years,pos
+concepts explained well,pos
+go,pos
+really want to issue,pos
+good,pos
+go,pos
+basic concepts explained well,pos
+well,pos
+not well,neg
+not go,neg
+not issue,neg
+not worst book,pos
+not bad book,pos
+benefit,pos
+not beneficial,neg
+not best,neg
+big vision,pos
+bright,pos
+good book,pos
+better book,pos
+not good book,neg
+bad book,neg
+not bad,pos
+love book,pos
+not love book,neg
+amazing book,pos
+not amazing book,neg
+worst book,neg
+best book,pos
+not,neg
+very good book,pos
+better book,pos
+not good book,neg
+bad book,neg
+not bad,pos
+love book,pos
+not love book,neg
+amazing book,pos
+not amazing book,neg
+worst book,neg
+best book,pos
+not,neg
+not explain well,neg
+explain well,pos
+go for it,pos
+not go for it,neg
+nice book,pos
+worst book ever seen,neg
+get another one,neg
+comment,pos
+good book reading since 2 years,pos
+concepts explained well,pos
+go,pos
+really want to issue,pos
+good,pos
+go,pos
+basic concepts explained well,pos
+well,pos
+not well,neg
+not go,neg
+not issue,neg
+not worst book,pos
+not bad book,pos
+benefit,pos
+not beneficial,neg
+not best,neg
+big vision,pos
+bright,pos
+bad book ever i seen,neg
+basic concepts not explained well,neg
+no comment,neg
+Excellent,pos
+Superb,pos
+Surprising,pos
+helpful,pos
+not surprising,neg
+not so helpful,neg
+insist,pos
+Didn't expected,neg
+unexpected,neg
+wrong,neg
+wrongly,neg
+struggled,neg
+spoiled,neg
+spoiling,neg
+spoiler,neg
+poor,neg
+poorer,neg
+poorest,neg
+poorly,neg
+not poor,pos
+not poorer,pos
+not poorest,pos
+not poorly,pos
+outdated,neg
+useless,neg
+Not so complex,pos
+Amazing ever ,pos
+very cheap ,neg
+amazing book i ever ,pos
+very cheap quality ,neg
+never issue,neg
+not expected,neg
+I do not like the way concepts are explained,neg
+one can say not so bad,pos
+text is not so complex,pos
+concepts difficult explained,neg
+unworthy,neg
+bad sentence constructions,neg
+poor sentence constructions,neg
+not so bad,pos
+didnt expect,neg
+break the trust,neg
+not so bad,pos
+so complex to understand,neg
+complex to learn,neg
+not complex,pos
+unhappy with the explaination,neg
